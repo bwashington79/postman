@@ -11,5 +11,14 @@
 - assert response object type
 - assert specific response value
 - assert value of property value in JSON response object.
+
+# Utilize Newman as a library to aid in CI/CD:
+
+With senior dev assistance demonstrate ability to leverage custom function to:
+ - Upload Newman report to S3 bucket
+ - Send error notification to Microsoft Teams channel when there is a test failure with link to Newman report.
+
+
+
  
  
