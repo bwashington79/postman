@@ -1,0 +1,201 @@
+{
+	"id": "62a51497-81da-4a7e-85e2-3605311f0987",
+	"values": [
+		{
+			"key": "code",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "access_token",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "refresh_token",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "bhrestoken",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "restUrl",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "refreshed_access_token",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "candidate_token",
+			"value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL2Rldi1vcmJiZ2F2di51cy5hdXRoMC5jb20vIiwic3ViIjoiYXV0aDB8YXV0aDB8NjFiYWE0NjZmOTk1ZjgwMDY5ZGRlODU1IiwiYXVkIjpbImh0dHBzOi8vdmlydHNlcnZlci5zd2FnZ2VyaHViLmNvbS9OYXJ3aGFsOC9qb2IvdjIvIiwiaHR0cHM6Ly9kZXYtb3JiYmdhdnYudXMuYXV0aDAuY29tL3VzZXJpbmZvIl0sImlhdCI6MTYzOTQzMDY2NSwiZXhwIjoxNjM5NDM3ODY1LCJhenAiOiJYV25wbXQ1ZHdpNVp0V1pUbm9QOWlzN0tCNW1GaGRXWiIsInNjb3BlIjoib3BlbmlkIHByb2ZpbGUgZW1haWwiLCJwZXJtaXNzaW9ucyI6WyJyZWNydWl0ZXIiXX0.HCIIclw23XHb9c5iViITgg2KfW1i2fGnWICAqt18VHs",
+			"enabled": true
+		},
+		{
+			"key": "recruiter_token",
+			"value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL2Rldi1vcmJiZ2F2di51cy5hdXRoMC5jb20vIiwic3ViIjoiYXV0aDB8NjFlYWUyYzJmNmE4Y2QwMDcwNTg1MjliIiwiYXVkIjpbImh0dHBzOi8vdmlydHNlcnZlci5zd2FnZ2VyaHViLmNvbS9OYXJ3aGFsOC9qb2IvdjIvIiwiaHR0cHM6Ly9kZXYtb3JiYmdhdnYudXMuYXV0aDAuY29tL3VzZXJpbmZvIl0sImlhdCI6MTYzOTQzMDY2NSwiZXhwIjoxNjM5NDM3ODY1LCJhenAiOiJYV25wbXQ1ZHdpNVp0V1pUbm9QOWlzN0tCNW1GaGRXWiIsInNjb3BlIjoib3BlbmlkIHByb2ZpbGUgZW1haWwiLCJwZXJtaXNzaW9ucyI6WyJyZWNydWl0ZXIiXX0.CPXAdxHNTOAqcwAQ3qTtZA2J1MwUigtKNG-ojGatyOg",
+			"enabled": true
+		},
+		{
+			"key": "POST_candidate_account_fname",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "POST_candidate_account_lname",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "POST_candidate_account_email",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "randomJobId",
+			"value": 340,
+			"enabled": true
+		},
+		{
+			"key": "jobRoleId",
+			"value": "203",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "jobId",
+			"value": "5018",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "locationId",
+			"value": "4",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "resumeId",
+			"value": "18",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "skillId",
+			"value": "194",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "candidateId",
+			"value": "24",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "randomJobIdScreener",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "randomRecruiterEmail",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "taskId",
+			"value": "1",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "recruiterId",
+			"value": "38",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "pref_value",
+			"value": "3",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "temporaryCandidateUUID",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "temporaryCandidateId",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "randomNum",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "email",
+			"value": "testemail@gmail.com",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "todoId",
+			"value": "1",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "RESTURL",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "signUpRandomNum",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "userLogin_login",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "userLogin_password",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "signUpAccessToken",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "createAccountRandomNum",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		}
+	],
+	"name": "Globals",
+	"_postman_variable_scope": "globals",
+	"_postman_exported_at": "2024-09-21T17:55:43.148Z",
+	"_postman_exported_using": "Postman/11.13.1"
+}
