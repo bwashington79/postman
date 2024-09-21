@@ -12,7 +12,7 @@
 - assert specific response value
 - assert value of property value in JSON response object.
 
-# Utilize Newman as a library to aid in CI/CD:
+# Utilize Newman as a library to aid in CI/CD: (foo_apiV3_tests.js)
 
 With senior dev assistance demonstrate ability to leverage custom function to:
  - Upload Newman report to S3 bucket
